@@ -1,1 +1,1 @@
-# GlasseOS-Updates
+# GlassOS-Updates
